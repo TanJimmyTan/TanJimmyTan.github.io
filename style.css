@@ -34,7 +34,7 @@ footer {
 }
 
 .topnav a {
-	float:left;
+	float:none;
 	display:block;
 	color:#001f3f;
 	text-align: center;
