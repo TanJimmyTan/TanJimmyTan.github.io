@@ -34,13 +34,13 @@ footer {
 }
 
 .topnav a {
-	float:none;
+	float:right;
 	display:block;
 	color:#ff0000;
 	text-align: center;
 	padding:14px 16px;
 	text-decoration: none;
-	font-size:30px;
+	font-size:25px;
 }
 
 .topnav a:hover {
